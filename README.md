@@ -10,11 +10,10 @@ Aplicación en Python con interfaz gráfica en Streamlit para resolver:
 ## Organización del proyecto
 
 
-.
-├── app.py
-├── electrostatica.py
-├── circuitos.py
-├── requirements.txt
+-app.py
+-electrostatica.py
+-circuitos.py
+-requirements.txt
 
 
 - electrostatica.py: funciones para ley de Coulomb, fuerza entre cargas y fuerza neta.
