@@ -6,7 +6,6 @@ Aplicación en Python con interfaz gráfica en Streamlit para resolver:
 - circuitos eléctricos con resistencias en serie y en paralelo,
 - resistencia equivalente, corriente total y distribución de corrientes o voltajes.
 
-La app fue pensada para que el profesor pueda abrirla directamente desde su navegador mediante Streamlit Cloud, sin instalar nada.
 
 ## Organización del proyecto
 
@@ -98,28 +97,3 @@ git branch -M main
 git remote add origin TU_URL_DEL_REPOSITORIO
 git push -u origin main
 ```
-
-### 2. Publicar en Streamlit Cloud
-
-1. Inicia sesión en [Streamlit Cloud](https://streamlit.io/cloud) con tu cuenta de GitHub.
-2. Selecciona **Create app**.
-3. Elige tu repositorio.
-4. Selecciona la rama `main`.
-5. Selecciona el archivo principal `app.py`.
-6. Pulsa **Deploy**.
-
-Al finalizar tendrás:
-
-- un enlace público a la app para que el profesor la abra en su navegador;
-- un enlace al repositorio de GitHub para revisar el código fuente.
-
-## Enlaces de entrega
-
-Completa esta sección cuando publiques el proyecto:
-
-- Repositorio en GitHub: `PENDIENTE`
-- Aplicación en Streamlit Cloud: `PENDIENTE`
-
-## Autor
-
-Proyecto académico desarrollado en Python, NumPy y Streamlit.
